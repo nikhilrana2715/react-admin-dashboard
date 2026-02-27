@@ -1,6 +1,4 @@
 # React Admin Dashboard
- 
-# React Admin Dashboard
 
 A modern **React Admin Dashboard** application built with a clean and scalable folder structure. This project is designed for admin panels, ERP systems, dashboards, and management applications.
 
