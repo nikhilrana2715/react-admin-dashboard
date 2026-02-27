@@ -153,7 +153,7 @@ This project is open-source and free to use for learning and development purpose
 ## 👤 Author
 
 **Nikhil Rana**
-BCA | Full Stack Developer
+BCA | Web Developer
 
 ---
 
